@@ -1,8 +1,7 @@
 # item_modifier-fill_player_head
 item_modifierの1項目であるfill_player_headに関するサンプルになります。
 
-~詳しくはブログ記事『[]()』を参考にしてください。~<br>
-現在執筆中
+詳しくはブログ記事『[【マイクラ】fill_player_headでスキンを反映する【item_modifier】](https://natsumake.com/item_modifier-fill_player_head/)』を参考にしてください。
 
 <h3>概要</h3>
 プレイヤーの頭に対して、どのプレイヤーの頭なのかといった情報を記述します。<br>
